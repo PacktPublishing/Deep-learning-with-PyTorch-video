@@ -21,7 +21,11 @@ By the end of the video course, you will have developed a good understanding of,
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for Python programmers who have some knowledge of machine learning and want to build Deep Learning systems with PyTorch. Python programming knowledge and minimal math skills (matrix/vector manipulation, simple probabilities) is assumed.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
+### Minimum Hardware Requirements
+<UL>
+<LI>OS: GNU/Linux Distribution (ex: Ubuntu, Debian, Fedora, etc.), Mac OS, Microsoft Windows</LI>
+<LI>Processor: Relatively modern CPU (Intel Core iX series 4th gen,  AMD equivalent)</LI>
+<LI>Memory: 4GB</LI></UL>
 
 
 ## Related Products
