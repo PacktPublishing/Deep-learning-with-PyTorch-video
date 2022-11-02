@@ -35,7 +35,3 @@ This course is for Python programmers who have some knowledge of machine learnin
 
 * [Learning GitLab [Video]](https://www.packtpub.com/application-development/learning-gitlab-video?utm_source=github&utm_medium=repository&utm_campaign=9781789809169)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788475266">https://packt.link/free-ebook/9781788475266 </a> </p>
