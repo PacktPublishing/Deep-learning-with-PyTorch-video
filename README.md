@@ -1,9 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
-
-
-
 # Deep Learning with PyTorch [Video]
 This is the code repository for [Deep Learning with PyTorch [Video]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch-video?utm_source=github&utm_medium=repository&utm_campaign=9781788475266), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
@@ -40,4 +34,5 @@ This course is for Python programmers who have some knowledge of machine learnin
 * [Responsive Web Development with Bootstrap 4 and Angular 7 [Video]](https://www.packtpub.com/web-development/responsive-web-development-bootstrap-4-and-angular-7-video?utm_source=github&utm_medium=repository&utm_campaign=9781789615272)
 
 * [Learning GitLab [Video]](https://www.packtpub.com/application-development/learning-gitlab-video?utm_source=github&utm_medium=repository&utm_campaign=9781789809169)
+
 
